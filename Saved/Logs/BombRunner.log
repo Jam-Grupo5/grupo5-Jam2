@@ -1602,3 +1602,228 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.05-19.18.31:815][276]LogPlayLevel: Display: Destroying online subsystem :Context_11
 [2024.05.05-19.18.36:338][395]BlueprintLog: New page: Compile interfaz
 [2024.05.05-19.18.36:594][395]LogUObjectHash: Compacting FUObjectHashTables data took   8.58ms
+[2024.05.05-19.19.35:336][274]LogViewport: Scene viewport resized to 1286x760, mode Windowed.
+[2024.05.05-19.19.35:374][275]LogViewport: Scene viewport resized to 1276x760, mode Windowed.
+[2024.05.05-19.19.35:447][276]LogViewport: Scene viewport resized to 1243x760, mode Windowed.
+[2024.05.05-19.19.35:512][277]LogViewport: Scene viewport resized to 1211x760, mode Windowed.
+[2024.05.05-19.19.35:556][278]LogViewport: Scene viewport resized to 1171x760, mode Windowed.
+[2024.05.05-19.19.35:611][279]LogViewport: Scene viewport resized to 1157x760, mode Windowed.
+[2024.05.05-19.19.35:660][280]LogViewport: Scene viewport resized to 1156x760, mode Windowed.
+[2024.05.05-19.19.35:711][281]LogViewport: Scene viewport resized to 1141x760, mode Windowed.
+[2024.05.05-19.19.35:758][282]LogViewport: Scene viewport resized to 1122x760, mode Windowed.
+[2024.05.05-19.19.35:802][283]LogViewport: Scene viewport resized to 1107x760, mode Windowed.
+[2024.05.05-19.19.35:849][284]LogViewport: Scene viewport resized to 1103x760, mode Windowed.
+[2024.05.05-19.19.47:255][770]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/menues/Widgets/UW_MainMenu.UW_MainMenu
+[2024.05.05-19.19.47:256][770]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.05-19.19.47:256][770]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.05-19.19.47:277][770]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.05-19.19.47:277][770]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.05-19.19.53:698][916]LogSlate: Took 0.027932 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.05.05-19.20.13:700][574]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.05-19.20.13:730][574]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.05-19.20.13:732][574]LogPlayLevel: [PlayLevel] Compiling MenuVictoria before play...
+[2024.05.05-19.20.13:902][574]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2024.05.05-19.20.13:920][574]LogPlayLevel: PlayLevel: Blueprint regeneration took 189 ms (1 blueprints)
+[2024.05.05-19.20.13:920][574]PIE: New page: PIE session: LavaBomb (5 may. 2024 13:20:13)
+[2024.05.05-19.20.13:920][574]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LavaBomb
+[2024.05.05-19.20.14:012][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091628s)
+[2024.05.05-19.20.14:012][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LavaBomb.LavaBomb to /Game/Levels/UEDPIE_0_LavaBomb.LavaBomb (0.091729s)
+[2024.05.05-19.20.14:071][574]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2024.05.05-19.20.14:072][574]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.05-19.20.14:073][574]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.05-19.20.14:074][574]LogAIModule: Creating AISystem for world LavaBomb
+[2024.05.05-19.20.14:075][574]LogPlayLevel: PIE: World Init took: (0.002632s)
+[2024.05.05-19.20.14:075][574]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.05.05-19.20.14:075][574]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.05-19.20.14:075][574]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.05-19.20.14:075][574]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.05-19.20.14:075][574]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.05-19.20.14:075][574]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.05-19.20.14:075][574]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.05-19.20.14:075][574]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.05-19.20.14:076][574]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.05-19.20.14:077][574]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.05-19.20.14:077][574]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.05-19.20.14:077][574]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.05-19.20.14:084][574]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.05-19.20.14:250][574]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (2- Wireless Controller)
+[2024.05.05-19.20.14:251][574]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.05-19.20.14:251][574]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.05-19.20.14:251][574]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.05-19.20.14:256][574]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.05.05-19.20.14:256][574]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.05.05-19.20.14:263][574]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.05.05-19.20.14:263][574]LogInit: FAudioDevice initialized with ID 5.
+[2024.05.05-19.20.14:263][574]LogAudio: Display: Audio Device (ID: 5) registered with world 'LavaBomb'.
+[2024.05.05-19.20.14:263][574]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.05.05-19.20.14:263][574]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.05-19.20.14:274][574]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2024.05.05-19.20.14:361][574]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LavaBomb.LavaBomb up for play (max tick rate 0) at 2024.05.05-16.20.14
+[2024.05.05-19.20.14:364][574]LogWorld: Bringing up level for play took: 0.088998
+[2024.05.05-19.20.14:374][574]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.05.05-19.20.14:385][574]PIE: Server logged in
+[2024.05.05-19.20.14:391][574]PIE: Play in editor total start time 0,661 seconds.
+[2024.05.05-19.20.22:033][787]LogLongPackageNames: Warning: Can't Find URL: ALS AnimMan: Input 'ALS AnimMan' contains one of the invalid characters for LongPackageNames: '\:*?"<>|' ,.&!~
+	@#'.. Invalidating and reverting to Default URL.
+[2024.05.05-19.20.22:040][787]LogLongPackageNames: Warning: Can't Find URL: ALS AnimMan: Input 'ALS AnimMan' contains one of the invalid characters for LongPackageNames: '\:*?"<>|' ,.&!~
+	@#'.. Invalidating and reverting to Default URL.
+[2024.05.05-19.20.22:043][787]LogNet: Browse: /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel
+[2024.05.05-19.20.22:043][787]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel
+[2024.05.05-19.20.22:045][787]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel'
+[2024.05.05-19.20.22:060][787]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel
+[2024.05.05-19.20.22:060][787]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel'
+[2024.05.05-19.20.22:098][788]LogNet: Browse: /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel?closed
+[2024.05.05-19.20.22:098][788]LogNet: Connection failed; returning to Entry
+[2024.05.05-19.20.22:101][788]LogLoad: LoadMap: /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel?closed
+[2024.05.05-19.20.22:101][788]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LavaBomb
+[2024.05.05-19.20.22:127][788]LogWorld: UWorld::CleanupWorld for LavaBomb, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-19.20.22:133][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-19.20.22:229][788]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.05-19.20.22:249][788]LogUObjectHash: Compacting FUObjectHashTables data took   8.18ms
+[2024.05.05-19.20.22:295][788]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LavaBomb
+[2024.05.05-19.20.22:427][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.131279s)
+[2024.05.05-19.20.22:427][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LavaBomb.LavaBomb to /Game/Levels/UEDPIE_0_LavaBomb.LavaBomb (0.131445s)
+[2024.05.05-19.20.22:438][788]LogAudio: Display: Audio Device (ID: 5) registered with world 'LavaBomb'.
+[2024.05.05-19.20.22:438][788]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.05-19.20.22:438][788]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.05-19.20.22:440][788]LogAIModule: Creating AISystem for world LavaBomb
+[2024.05.05-19.20.22:441][788]LogPlayLevel: PIE: World Init took: (0.003357s)
+[2024.05.05-19.20.22:441][788]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2024.05.05-19.20.22:521][788]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LavaBomb.LavaBomb up for play (max tick rate 0) at 2024.05.05-16.20.22
+[2024.05.05-19.20.22:524][788]LogWorld: Bringing up level for play took: 0.080722
+[2024.05.05-19.20.22:528][788]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.05.05-19.20.22:548][788]LogLoad: Took 0.447125 seconds to LoadMap(/Game/Levels/UEDPIE_0_LavaBomb)
+[2024.05.05-19.20.22:635][788]LogUObjectHash: Compacting FUObjectHashTables data took   8.05ms
+[2024.05.05-19.20.29:762][  8]Cmd: quit
+[2024.05.05-19.20.30:132][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.05-19.20.30:133][  8]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LavaBomb
+[2024.05.05-19.20.30:163][  8]LogWorld: UWorld::CleanupWorld for LavaBomb, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-19.20.30:170][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-19.20.30:178][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.05-19.20.30:195][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-19.20.30:260][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.05-19.20.30:266][  8]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.05-19.20.30:266][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.05-19.20.30:272][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.05-19.20.30:308][  8]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2024.05.05-19.20.30:410][  9]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.05.05-19.21.08:328][133]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-19.21.08:328][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-19.21.08:392][133]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-19.21.08:392][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-19.21.10:015][167]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-19.21.10:016][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-19.21.10:046][167]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-19.21.10:047][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-19.21.16:539][358]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/menues/+menus/MenuMuerte.MenuMuerte
+[2024.05.05-19.21.16:540][358]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.05-19.21.16:540][358]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.05-19.21.16:563][358]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.05-19.21.16:563][358]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.05-19.21.34:198][820]LogAutomationController: Ignoring very large delta of 2.38 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.05-19.21.34:226][820]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.05-19.21.34:334][820]LogShaderCompilers: Display: ================================================
+[2024.05.05-19.21.34:334][820]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.05-19.21.34:335][820]LogShaderCompilers: Display: Total job queries 122, among them cache hits 22 (18.03%)
+[2024.05.05-19.21.34:335][820]LogShaderCompilers: Display: Tracking 100 distinct input hashes that result in 57 distinct outputs (57.00%)
+[2024.05.05-19.21.34:335][820]LogShaderCompilers: Display: RAM used: 201,87 KiB of 409,60 MiB budget. Usage: 0.05%
+[2024.05.05-19.21.34:335][820]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.05-19.21.34:335][820]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.05-19.21.34:335][820]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.05-19.21.34:335][820]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.05-19.21.34:335][820]LogShaderCompilers: Display: ================================================
+[2024.05.05-19.21.34:724][820]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2024.05.05-19.21.34:824][820]LogD3D12RHI: Warning: Waited for PSO creation for 200.000000ms
+[2024.05.05-19.21.35:024][820]LogD3D12RHI: Warning: Waited for PSO creation for 400.000000ms
+[2024.05.05-19.21.36:758][824]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.05-19.21.37:084][826]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2024.05.05-19.24.27:862][ 85]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.05-19.25.00:506][183]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.05-19.25.11:822][216]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.05-19.25.27:621][263]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.05-19.26.09:101][387]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.05-19.26.28:139][444]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.05-19.26.49:822][509]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.05-19.27.09:016][566]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.05-19.27.22:752][607]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.05-19.27.43:284][668]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.05-19.27.58:407][713]LogUObjectHash: Compacting FUObjectHashTables data took   7.69ms
+[2024.05.05-19.27.58:425][713]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LavaBomb' took 0.190
+[2024.05.05-19.27.58:436][713]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/interfaz/interfaz] ([2] browsable assets)...
+[2024.05.05-19.27.58:460][713]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/interfaz/interfaz.interfaz]
+[2024.05.05-19.27.58:461][713]OBJ SavePackage: Finished generating thumbnails for package [/Game/interfaz/interfaz]
+[2024.05.05-19.27.58:568][713]LogPackageLocalizationCache: Processed 44 localized package path(s) for 2 prioritized culture(s) in 0.059770 seconds
+[2024.05.05-19.27.58:812][713]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/interfaz/interfaz_Auto1
+[2024.05.05-19.27.58:812][713]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/grupo5-Jam2/Saved/interfaz_Auto135BC38CA45D34E607E7E7D890C41127C.tmp' to 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/grupo5-Jam2/Saved/Autosaves/Game/interfaz/interfaz_Auto1.uasset'
+[2024.05.05-19.27.58:857][713]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/menues/+menus/MenuPausa] ([2] browsable assets)...
+[2024.05.05-19.27.58:869][713]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/menues/+menus/MenuPausa.MenuPausa]
+[2024.05.05-19.27.58:869][713]OBJ SavePackage: Finished generating thumbnails for package [/Game/menues/+menus/MenuPausa]
+[2024.05.05-19.27.58:932][713]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/menues/+menus/MenuPausa_Auto1
+[2024.05.05-19.27.58:935][713]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/grupo5-Jam2/Saved/MenuPausa_Auto17834CA184C4DD3C0042E0C91475515AA.tmp' to 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/grupo5-Jam2/Saved/Autosaves/Game/menues/+menus/MenuPausa_Auto1.uasset'
+[2024.05.05-19.27.58:954][713]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/menues/+menus/MenuVictoria] ([2] browsable assets)...
+[2024.05.05-19.27.58:967][713]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/menues/+menus/MenuVictoria.MenuVictoria]
+[2024.05.05-19.27.58:967][713]OBJ SavePackage: Finished generating thumbnails for package [/Game/menues/+menus/MenuVictoria]
+[2024.05.05-19.27.58:998][713]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/menues/+menus/MenuVictoria_Auto1
+[2024.05.05-19.27.58:998][713]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/grupo5-Jam2/Saved/MenuVictoria_Auto123EBABA9458C0F301E0AB896901D46ED.tmp' to 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/grupo5-Jam2/Saved/Autosaves/Game/menues/+menus/MenuVictoria_Auto1.uasset'
+[2024.05.05-19.27.59:003][713]LogFileHelpers: Auto-saving content packages took 0.574
+[2024.05.05-19.28.11:660][752]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.05-19.28.25:632][794]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.05-19.28.41:201][841]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.05-19.29.25:791][ 74]LogViewport: Scene viewport resized to 1102x760, mode Windowed.
+[2024.05.05-19.29.25:858][ 75]LogViewport: Scene viewport resized to 1080x760, mode Windowed.
+[2024.05.05-19.29.25:927][ 76]LogViewport: Scene viewport resized to 1054x760, mode Windowed.
+[2024.05.05-19.29.26:009][ 77]LogViewport: Scene viewport resized to 998x760, mode Windowed.
+[2024.05.05-19.29.27:303][115]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.05-19.29.27:371][115]LogShaderCompilers: Display: ================================================
+[2024.05.05-19.29.27:371][115]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.05-19.29.27:371][115]LogShaderCompilers: Display: Total job queries 138, among them cache hits 32 (23.19%)
+[2024.05.05-19.29.27:371][115]LogShaderCompilers: Display: Tracking 106 distinct input hashes that result in 60 distinct outputs (56.60%)
+[2024.05.05-19.29.27:371][115]LogShaderCompilers: Display: RAM used: 214,78 KiB of 409,60 MiB budget. Usage: 0.05%
+[2024.05.05-19.29.27:371][115]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.05-19.29.27:371][115]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.05-19.29.27:371][115]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.05-19.29.27:371][115]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.05-19.29.27:372][115]LogShaderCompilers: Display: ================================================
+[2024.05.05-19.29.27:891][125]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.05-19.29.27:989][126]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2024.05.05-19.31.19:723][177]BlueprintLog: New page: Compile BP_RiceChest
+[2024.05.05-19.31.20:031][177]LogUObjectHash: Compacting FUObjectHashTables data took   7.71ms
+[2024.05.05-19.31.25:130][305]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2024.05.05-19.31.26:540][305]LogSlate: Window 'Save Content' being destroyed
+[2024.05.05-19.31.26:624][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.05-19.31.26:927][305]LogSavePackage: Moving output files for package: /Game/KTInteractionPropVol1/Blueprints/BP_RiceChest
+[2024.05.05-19.31.26:930][305]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/grupo5-Jam2/Saved/BP_RiceChestB1A21A70437DF03A47C77985D66766F1.tmp' to 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/grupo5-Jam2/Content/KTInteractionPropVol1/Blueprints/BP_RiceChest.uasset'
+[2024.05.05-19.31.26:958][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/interfaz/interfaz" FILE="C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/grupo5-Jam2/Content/interfaz/interfaz.uasset" SILENT=true
+[2024.05.05-19.31.26:991][305]LogSavePackage: Moving output files for package: /Game/interfaz/interfaz
+[2024.05.05-19.31.26:994][305]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/grupo5-Jam2/Saved/interfaz9F49BF9847C1EE7D9F5A79BA6B599879.tmp' to 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/grupo5-Jam2/Content/interfaz/interfaz.uasset'
+[2024.05.05-19.31.27:001][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/menues/+menus/MenuPausa" FILE="C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/grupo5-Jam2/Content/menues/+menus/MenuPausa.uasset" SILENT=true
+[2024.05.05-19.31.27:051][305]LogSavePackage: Moving output files for package: /Game/menues/+menus/MenuPausa
+[2024.05.05-19.31.27:054][305]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/grupo5-Jam2/Saved/MenuPausa293993F442194F05AF3CC6B1801C005D.tmp' to 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/grupo5-Jam2/Content/menues/+menus/MenuPausa.uasset'
+[2024.05.05-19.31.27:061][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/menues/+menus/MenuVictoria" FILE="C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/grupo5-Jam2/Content/menues/+menus/MenuVictoria.uasset" SILENT=true
+[2024.05.05-19.31.27:093][305]LogSavePackage: Moving output files for package: /Game/menues/+menus/MenuVictoria
+[2024.05.05-19.31.27:096][305]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/grupo5-Jam2/Saved/MenuVictoriaDDEB97584272EFF0D0698088C1B7AD98.tmp' to 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/grupo5-Jam2/Content/menues/+menus/MenuVictoria.uasset'
+[2024.05.05-19.31.27:129][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 501 ms
+[2024.05.05-19.31.27:143][305]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.05-19.31.27:149][305]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/KTInteractionPropVol1/Blueprints/BP_RiceChest.BP_RiceChest
+[2024.05.05-19.31.27:151][305]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/interfaz/interfaz.interfaz
+[2024.05.05-19.31.27:165][305]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/menues/+menus/MenuPausa.MenuPausa
+[2024.05.05-19.31.27:167][305]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/menues/+menus/MenuVictoria.MenuVictoria
+[2024.05.05-19.31.27:204][306]LogAutomationController: Ignoring very large delta of 2.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.05-19.31.32:882][483]LogEditorViewport: Clicking Background
+[2024.05.05-19.31.38:468][633]LogViewport: Scene viewport resized to 1000x760, mode Windowed.
+[2024.05.05-19.31.38:535][634]LogViewport: Scene viewport resized to 1035x760, mode Windowed.
+[2024.05.05-19.31.38:608][635]LogViewport: Scene viewport resized to 1092x760, mode Windowed.
+[2024.05.05-19.31.38:677][636]LogViewport: Scene viewport resized to 1128x760, mode Windowed.
+[2024.05.05-19.31.38:762][637]LogViewport: Scene viewport resized to 1173x760, mode Windowed.
+[2024.05.05-19.31.38:852][638]LogViewport: Scene viewport resized to 1212x760, mode Windowed.
+[2024.05.05-19.31.38:926][639]LogViewport: Scene viewport resized to 1232x760, mode Windowed.
+[2024.05.05-19.31.39:014][640]LogViewport: Scene viewport resized to 1250x760, mode Windowed.
+[2024.05.05-19.31.39:099][641]LogViewport: Scene viewport resized to 1277x760, mode Windowed.
+[2024.05.05-19.31.39:189][642]LogViewport: Scene viewport resized to 1282x760, mode Windowed.
+[2024.05.05-19.31.39:275][643]LogViewport: Scene viewport resized to 1289x760, mode Windowed.
+[2024.05.05-19.31.39:357][644]LogViewport: Scene viewport resized to 1299x760, mode Windowed.
+[2024.05.05-19.31.39:450][645]LogViewport: Scene viewport resized to 1300x760, mode Windowed.
+[2024.05.05-19.31.39:563][647]LogViewport: Scene viewport resized to 1302x760, mode Windowed.
+[2024.05.05-19.31.39:639][648]LogViewport: Scene viewport resized to 1311x760, mode Windowed.
+[2024.05.05-19.31.39:717][649]LogViewport: Scene viewport resized to 1314x760, mode Windowed.
+[2024.05.05-19.32.16:788][554]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
